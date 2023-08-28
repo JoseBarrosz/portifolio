@@ -28,11 +28,31 @@ color: #fff;
 text-decoration: none;
         
 }
+
+.primeiro{
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.segundo{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.terceiro{
+    display: flex;
+    flex-direction: row;
+}
         
 .image-blocks {    
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 100px;
+    flex-direction: column;
+    margin: center;
     
 }
         
